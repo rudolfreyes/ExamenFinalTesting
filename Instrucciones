@@ -1,0 +1,42 @@
+Vulnerable Accounting System – Reportes Individuales de Seguridad
+
+Este repositorio contiene los reportes individuales de cada integrante del equipo de testing y ciberseguridad del proyecto Vulnerable Accounting System.
+Cada miembro subirá aquí su documento en formato Markdown (.md) utilizando la rama asignada.
+
+El objetivo es organizar el trabajo, mantener control de versiones y centralizar la documentación generada durante el análisis de vulnerabilidades del sistema.
+
+👥 Integrantes del Equipo y Ramas Asignadas
+
+Cada estudiante debe trabajar únicamente en su rama y subir allí su archivo .md.
+
+Integrante	Rama asignada	Archivo esperado
+Manuel	manuel	report_manuel.md
+Oscar	oscar	report_oscar.md
+Keisy	keisy	report_keisy.md
+Mynor	mynor	report_mynor.md
+Dulce	dulce	report_dulce.md
+Wilian	wilian	report_wilian.md
+Kevin	kevin	report_kevin.md
+Carlos	carlos	report_carlos.md
+Cesar	cesar	report_cesar.md
+Flujo de trabajo del proyecto
+
+Cada integrante trabaja en su rama personal.
+
+Una vez subido su archivo .md, se notifica al líder.
+
+El líder revisa los cambios y realiza el merge hacia la rama main.
+
+Se conserva el historial para fines de auditoría y control.
+
+Propósito del repositorio
+
+Este repositorio forma parte de la documentación del proyecto Vulnerable Accounting System, donde:
+
+Se identificaron 45 vulnerabilidades.
+
+Cada integrante documentó 5 vulnerabilidades asignadas.
+
+Se organizó el trabajo mediante ramas individuales, control de versiones y supervisión centralizada.
+
+Los reportes permitirán demostrar en el examen final qué vulnerabilidades trabajó cada estudiante.
